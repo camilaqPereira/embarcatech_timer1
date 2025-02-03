@@ -15,14 +15,12 @@ Raspberry Pico W por meio da Raspberry SDK.
 > - Delay de 3s
 > - Etapa 3: Desativação dos três LEDs
 
-Para uma melhor performance do código, realizou-se a temporização por meio de timers de hardware. Foi desenvolvido também uma atenuação em software para o fenômeno
-de bouncing do pushbutton.
+Para uma melhor performance do código, realizou-se a temporização por meio de timers de hardware.
 
 ## Componentes utilizados
 - Raspberry Pico W;
 - 3 resistores de 330 ohms;
 - 3 leds (vermelho, verde e azul) ou 1 led RGB;
-- 1 pushbutton
 - Plataforma BitDogLag (para teste em hardware físico)
 
 
